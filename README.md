@@ -4,7 +4,7 @@
 
 Submitted by: **Rinchen**
 
-Time spent: **12** hours spent in total
+Time spent: **16** hours spent in total
 
 ## User Stories
 
@@ -23,6 +23,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
+-[X] Added and removed a slider based Tip adjustment that was provided more and easier adjustments of tip
 
 ## Video Walkthrough
 
@@ -35,7 +36,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-I was trying to learn and explore Swift more as I hadn't really used it before. The drag-and-link type 
+I was trying to learn and explore Swift more as I hadn't really used it before. The drag-and-link type programming. Although this made things a lot easier in term of OOP, debugging it was really hard and even replicating the product seem to be somewhat challenging because of all the hidden links. 
+Setting AppIcon after unknowingly deleting the Assets.xcassets folder was one major hurdle.
 
 ## License
 
